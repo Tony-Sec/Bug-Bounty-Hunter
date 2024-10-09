@@ -11,6 +11,10 @@
 
 [[4.Fuzzer web]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Proxys%20web/4.Fuzzer%20web.md)
 
+### Web Info Gathering
+[[1.WHOIS]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Web%20Info%20Gathering/WHOIS.md)
+
+
 ### Ffuf tool
 [[1.Web Fuzzing]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ffuf/1.Web%20Fuzzing.md)
 
