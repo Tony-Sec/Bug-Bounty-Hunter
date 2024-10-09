@@ -18,5 +18,5 @@
 
 [[Ffuf - Cheat sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ffuf/Ffuf%20-%20Cheat%20sheet.md)
 
-[[XSS - Cheat Sheet]]()
+[[XSS - Cheat Sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/XSS%20-%20Cheat%20Sheet.md)
 
