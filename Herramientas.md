@@ -16,5 +16,8 @@
 - Subfinder
 - Sublistt3r
 
+##### Proxys
+- [Proxychains](https://github.com/haad/proxychains) 
+
 ###### Videos
 [How I made 200$ in 2 Minutes on Hackerone - Zomato Bug Bounty Program - POC](https://www.youtube.com/watch?v=43YsbV8wL2c)
