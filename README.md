@@ -27,6 +27,15 @@
 
 
 ------
+
+### Ataques web
+[[1.HTTP Verb Tampering]]()
+
+[[2.Insecure Direct Object References (IDOR)]]()
+
+[[3.XML External Entity (XXE) Injection]]()
+
+
 ## Cheat Sheets
 
 [[Herramientas]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Herramientas.md)
@@ -38,3 +47,5 @@
 [[Burp - Cheat sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Proxys%20web/Burp%20-%20Cheat%20sheet.md)
 
 [[XSS - Cheat Sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/XSS%20-%20Cheat%20Sheet.md)
+
+[[Web Attacks - Cheat sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/Web%20Attacks%20-%20Cheat%20Sheet.md)
