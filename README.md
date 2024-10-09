@@ -11,6 +11,12 @@
 
 [[4.Fuzzing de parámetros]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ffuf/4.Fuzzing%20de%20par%C3%A1metros.md)
 
+### XSS
+
+
+### Proxys Webs
+
+
 ------
 ## Cheat Sheets
 
