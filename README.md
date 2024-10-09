@@ -29,11 +29,11 @@
 ------
 
 ### Ataques web
-[[1.HTTP Verb Tampering]]()
+[[1.HTTP Verb Tampering]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/1.HTTP%20Verb%20Tampering.md)
 
-[[2.Insecure Direct Object References (IDOR)]]()
+[[2.Insecure Direct Object References (IDOR)]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/2.Insecure%20Direct%20Object%20References%20(IDOR).md)
 
-[[3.XML External Entity (XXE) Injection]]()
+[[3.XML External Entity (XXE) Injection]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/3.XML%20External%20Entity%20(XXE)%20Injection.md)
 
 
 ## Cheat Sheets
@@ -48,4 +48,4 @@
 
 [[XSS - Cheat Sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/XSS%20-%20Cheat%20Sheet.md)
 
-[[Web Attacks - Cheat sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/Web%20Attacks%20-%20Cheat%20Sheet.md)
+[[Web Attacks - Cheat sheet]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/Web%20Attacks%20-%20Cheat%20sheet.md)

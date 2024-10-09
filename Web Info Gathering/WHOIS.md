@@ -1,0 +1,11 @@
+Cada registro WHOIS normalmente contiene la siguiente información:
+
+- `Domain Name`:El nombre de dominio en sí (por ejemplo, ejemplo.com)
+- `Registrar`:La empresa donde se registró el dominio (por ejemplo, GoDaddy, Namecheap)
+- `Registrant Contact`:La persona u organización que registró el dominio.
+- `Administrative Contact`:La persona responsable de administrar el dominio.
+- `Technical Contact`:La persona que maneja los asuntos técnicos relacionados con el dominio.
+- `Creation and Expiration Dates`:Cuándo se registró el dominio y cuándo está previsto que caduque.
+- `Name Servers`:Servidores que traducen el nombre de dominio en una dirección IP.
+![[whois_1.png]]
+()
