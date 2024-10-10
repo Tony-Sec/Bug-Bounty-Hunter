@@ -18,7 +18,7 @@
 
 ##### Proxys
 - [Proxychains](https://github.com/haad/proxychains) 
-- 
+
 ###### Canales YT
 
 [CyberForged](https://www.youtube.com/@cyberforged) - Noticias
