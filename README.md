@@ -15,6 +15,19 @@
 [[1.WHOIS]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Web%20Info%20Gathering/WHOIS.md)
 
 
+
+### Ataques web
+[[1.HTTP Verb Tampering]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/1.HTTP%20Verb%20Tampering.md)
+
+[[2.Insecure Direct Object References (IDOR)]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/2.Insecure%20Direct%20Object%20References%20(IDOR).md)
+
+[[3.XML External Entity (XXE) Injection]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/3.XML%20External%20Entity%20(XXE)%20Injection.md)
+
+### XSS
+[[1.Conceptos básicos de XSS]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/1.Conceptos%20b%C3%A1sicos%20de%20XSS.md)
+
+[[2.Ataques XSS]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/2.Ataques%20XSS.md)
+
 ### Ffuf tool
 [[1.Web Fuzzing]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ffuf/1.Web%20Fuzzing.md)
 
@@ -24,22 +37,8 @@
 
 [[4.Fuzzing de parámetros]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ffuf/4.Fuzzing%20de%20par%C3%A1metros.md)
 
-### XSS
-[[1.Conceptos básicos de XSS]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/1.Conceptos%20b%C3%A1sicos%20de%20XSS.md)
 
-[[2.Ataques XSS]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/2.Ataques%20XSS.md)
-
-
-------
-
-### Ataques web
-[[1.HTTP Verb Tampering]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/1.HTTP%20Verb%20Tampering.md)
-
-[[2.Insecure Direct Object References (IDOR)]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/2.Insecure%20Direct%20Object%20References%20(IDOR).md)
-
-[[3.XML External Entity (XXE) Injection]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/3.XML%20External%20Entity%20(XXE)%20Injection.md)
-
-
+ ------
 ## Cheat Sheets
 
 [[Herramientas]](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Herramientas.md)
