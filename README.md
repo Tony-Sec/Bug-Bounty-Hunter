@@ -1,6 +1,4 @@
-# Bug-Bounty-Hunter
-
-## **INDICE**
+# **INDICE** Bug-Bounty-Hunter
 
 ### Proxys Webs
 1. [Definición](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Proxys%20web/1.Definici%C3%B3n.md)
