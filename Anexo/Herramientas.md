@@ -22,7 +22,9 @@
 ###### Canales YT
 
 [CyberForged](https://www.youtube.com/@cyberforged) - Noticias
+
 [Hack5](https://www.youtube.com/c/hak5) - Investigación & Divulgación
+
 [CursoReversing](https://www.youtube.com/@cursoreversing1952) - Ingeniería Inversa
 ###### Videos
 [How I made 200$ in 2 Minutes on Hackerone - Zomato Bug Bounty Program - POC](https://www.youtube.com/watch?v=43YsbV8wL2c)
