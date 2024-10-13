@@ -36,7 +36,7 @@
 4. [Fuzzing de parámetros](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ffuf/4.Fuzzing%20de%20par%C3%A1metros.md)
 
  ------
-## **Cheat Sheets**
+# **Cheat Sheets**
 
 - [Ffuf](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ffuf/Ffuf%20-%20Cheat%20sheet.md)
 - [XSS](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/XSS%20-%20Cheat%20Sheet.md)
@@ -44,6 +44,6 @@
 - [XSS](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/XSS/XSS%20-%20Cheat%20Sheet.md)
 - [Web Attacks](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Ataques%20web/Web%20Attacks%20-%20Cheat%20sheet.md)
 
-## *Anexo*
+# *Anexo*
 
 [Herramientas](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Herramientas.md)
