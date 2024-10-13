@@ -47,4 +47,6 @@
 
 [Herramientas](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Anexo/Herramientas.md)
 
+[Canales Youtube Ciberseguridad](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Anexo/Canales%20Youtube%20Ciberseguridad.md)
+
 [Preguntas entrevista de trabajo](https://github.com/Tony-Sec/Bug-Bounty-Hunter/blob/main/Anexo/Preguntas%20entrevista%20de%20trabajo.md)
