@@ -2,7 +2,7 @@
 [CyberForged](https://www.youtube.com/@cyberforged)
 
 #### Investigación & Divulgación
-[Hack5](https://www.youtube.com/c/hak5) - 
+[Hack5](https://www.youtube.com/c/hak5)
 
 #### Aprendizaje
 ###### Pentest
