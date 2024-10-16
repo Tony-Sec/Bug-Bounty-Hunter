@@ -7,6 +7,8 @@
 - [XSS Strike](https://github.com/s0md3v/XSStrike) 
 - [Brute XSS](https://github.com/rajeshmajumdar/BruteXSS) 
 - [XSSer](https://github.com/epsylon/xsser)
+##### XXE
+- [XXEinjector](https://github.com/enjoiz/XXEinjector) 
 ##### Fuzzers
 - [ffuf](https://github.com/ffuf/ffuf)
 - dirbuster
