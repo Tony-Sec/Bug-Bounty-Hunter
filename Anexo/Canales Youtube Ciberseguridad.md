@@ -11,3 +11,5 @@
 ###### Ingeniería Inversa
 [CursoReversing](https://www.youtube.com/@cursoreversing1952)
 
+###### Forense
+- [Hackavis](https://www.youtube.com/@Hackavis)
