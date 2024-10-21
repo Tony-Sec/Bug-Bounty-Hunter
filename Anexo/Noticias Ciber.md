@@ -150,17 +150,3 @@ Ha publicado numerosos libros y artículos relacionados con la ciberseguridad y 
 Uno de los principales investigadores de la industria de la seguridad online. Puedes encontrar los tipos de estafas más recientes y consejos prácticos en su perfil de Twitter.
 - https://www.mikko.com/
 
-# Canales Twitter
-- [peerlyst](https://x.com/peerlyst)
-- [hispasec](https://x.com/hispasec)
-- [securizame](https://x.com/securizame)
-- [chemaalonso](https://x.com/chemaalonso)
-- [_angelucho_](https://x.com/_angelucho_)
-- [anphacket](https://x.com/anphacket)
-- [noconname](https://x.com/noconname)
-- [rootedcon](https://x.com/rootedcon)
-- [yjesus](https://x.com/yjesus)
-- [INCIBE](https://x.com/INCIBE)
-- [hackhispano](https://x.com/hackhispano)
-- [luis_corrons](https://x.com/luis_corrons)
-- [pandacomunica](https://x.com/pandacomunica)
