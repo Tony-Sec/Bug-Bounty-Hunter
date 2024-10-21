@@ -1,8 +1,8 @@
 
 #### Aprendizaje
 ##### Programación
-[Mouredev](https://youtube.com/@mouredev) - Tutoriales y podcast
-[Mouredev TV](https://youtube.com/@mouredevtv) - directos
+- [Mouredev](https://youtube.com/@mouredev) - Tutoriales y podcast
+- [Mouredev TV](https://youtube.com/@mouredevtv) - directos
 ##### Inteligencia Artificial
 - [Dot CSV Lab](https://www.youtube.com/@DotCSVLab)
 ##### Ciberseguridad
