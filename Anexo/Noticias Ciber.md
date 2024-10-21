@@ -1,7 +1,10 @@
+# Páginas
 
 - [elladodelmal](www.elladodelmal.com)
 - [welivesecurity](https://www.welivesecurity.com/es/)
 - https://cybersecuritynews.es/
+- https://krebsonsecurity.com/
+- https://www.troyhunt.com/
 
 ## [NextGov](https://www.nextgov.com/)
 
@@ -114,3 +117,30 @@ Noticias y opiniones semanales de los directivos, el personal y los miembros de 
 ## [Keeper Security Blog](https://www.keepersecurity.com/blog) 
 
 Noticias útiles sobre los productos de Keeper y el mundo de la seguridad cibernética en general, con especial atención a la gestión de identidades y accesos (IAM) y la gestión del acceso privilegiado (PAM).
+
+# Influencers
+
+1. [Eugene Kaspersky](https://x.com/e_kaspersky)
+
+Kaspersky no necesita presentación. Es uno de los líderes de la industria y escribe sus propias opiniones y puntos de vista sobre seguridad cibernética.
+- https://www.instagram.com/e_kaspersky/
+
+2. [Caza de Troya](https://x.com/troyhunt)
+
+Troy es un ejecutivo de Microsoft y se ocupa de la seguridad de los productos. Ha creado HaveIBeenPwned.com , donde los usuarios pueden comprobar si sus correos electrónicos se han visto comprometidos en una violación de datos.
+- https://www.youtube.com/user/troyhuntdotcom
+
+3. [**Brian Krebs**](https://krebsonsecurity.com/)
+
+Es uno de los mejores reporteros de seguridad y siempre está en movimiento cuando ocurre la última violación de seguridad.
+- https://krebsonsecurity.com/
+
+4. [Bruce Schneier](https://x.com/schneierblog)
+
+Ha publicado numerosos libros y artículos relacionados con la ciberseguridad y ha sido catalogado como un gurú de la seguridad.
+- https://www.schneier.com/
+
+5. [Mikko Hyppönen](https://x.com/mikko)
+
+Uno de los principales investigadores de la industria de la seguridad online. Puedes encontrar los tipos de estafas más recientes y consejos prácticos en su perfil de Twitter.
+- https://www.mikko.com/
