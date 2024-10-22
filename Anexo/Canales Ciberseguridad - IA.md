@@ -6,6 +6,7 @@
 - [Mouredev TV](https://youtube.com/@mouredevtv) - directos
 ##### Inteligencia Artificial
 - [Dot CSV Lab](https://www.youtube.com/@DotCSVLab)
+- [LLM Master](https://www.youtube.com/@llmmaster_)
 - [Xavier Mitjana](https://www.youtube.com/@XavierMitjana) 
 ##### Ciberseguridad
 ###### Pentest
