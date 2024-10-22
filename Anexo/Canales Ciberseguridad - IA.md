@@ -7,6 +7,7 @@
 ##### Inteligencia Artificial
 - [Dot CSV Lab](https://www.youtube.com/@DotCSVLab)
 - [LLM Master](https://www.youtube.com/@llmmaster_)
+- [Miguelitohacks](https://www.youtube.com/@miguelitohacks)
 - [Xavier Mitjana](https://www.youtube.com/@XavierMitjana) 
 ##### Ciberseguridad
 ###### Pentest
