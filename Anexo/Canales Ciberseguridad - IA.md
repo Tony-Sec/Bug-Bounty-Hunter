@@ -16,6 +16,9 @@
 - [S4viOnLive (Backup Directos de Twitch)](https://www.youtube.com/channel/UCgzsRmCl4BU-QmSVC4jFOlg)
 - [Seven Seas Security](https://www.youtube.com/@7SeasSecurity)
 - [El Pingüino de Mario](https://www.youtube.com/@ElPinguinoDeMario)
+- [Xerosec](https://www.youtube.com/@xerosec) - Podcasts
+- [Hixec](https://www.youtube.com/@Hixec)
+- [Lo de los Hackers](https://www.youtube.com/@LodelosHackers) - Podcasts
 ###### Ingeniería Inversa
 - [CursoReversing](https://www.youtube.com/@cursoreversing1952)
 ###### Forense
