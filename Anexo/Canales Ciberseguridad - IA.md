@@ -1,17 +1,25 @@
 
 # Youtube
 #### Aprendizaje
+##### Linux
+- [Atareao](https://www.youtube.com/@atareao)
 ##### Programación
-- [Mouredev](https://youtube.com/@mouredev) - Tutoriales y podcast
+- [Mouredev](https://youtube.com/@mouredev) - Tutoriales  y podcast
 - [Mouredev TV](https://youtube.com/@mouredevtv) - directos
+- [Midulive](https://www.youtube.com/@midulive) -Programación Web
+- [Midudev](https://www.youtube.com/@midudev)
+- [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
 ##### Inteligencia Artificial
+- [Nechu](https://www.youtube.com/@NechuBM)
+- [Dot CSV](https://www.youtube.com/@DotCSV)
 - [Dot CSV Lab](https://www.youtube.com/@DotCSVLab)
 - [LLM Master](https://www.youtube.com/@llmmaster_)
 - [Miguelitohacks](https://www.youtube.com/@miguelitohacks)
 - [Xavier Mitjana](https://www.youtube.com/@XavierMitjana) 
 ##### Ciberseguridad
-###### Pentest
+###### Pentesting
 - [Chema Alonso](https://www.youtube.com/@MalignoAlonso)
+- [HackerSploit](https://www.youtube.com/@HackerSploit)
 - [S4vitar](https://www.youtube.com/@s4vitar)
 - [S4viOnLive (Backup Directos de Twitch)](https://www.youtube.com/channel/UCgzsRmCl4BU-QmSVC4jFOlg)
 - [Seven Seas Security](https://www.youtube.com/@7SeasSecurity)
@@ -19,8 +27,9 @@
 - [Xerosec](https://www.youtube.com/@xerosec) - Podcasts
 - [Hixec](https://www.youtube.com/@Hixec)
 - [Lo de los Hackers](https://www.youtube.com/@LodelosHackers) - Podcasts
+- [Artes Oscuras](https://www.youtube.com/@artes_oscuras)
 ###### Ingeniería Inversa
-- [CursoReversing](https://www.youtube.com/@cursoreversing1952)
+- [Curso Reversing](https://www.youtube.com/@cursoreversing1952)
 ###### Forense
 - [Hackavis](https://www.youtube.com/@Hackavis)
 #### Investigación & Divulgación
