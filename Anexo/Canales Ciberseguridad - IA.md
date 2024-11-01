@@ -12,6 +12,7 @@
 - [Kevin Wood | Robotics & AI](https://www.youtube.com/@kevinwoodrobotics)
 - [pixegami](https://www.youtube.com/@pixegami)
 - [AI Anytime](https://www.youtube.com/@AIAnytime)
+- [Vida MRR - Programacion web](https://www.youtube.com/@vidamrr)
 ##### Inteligencia Artificial
 - [Nechu](https://www.youtube.com/@NechuBM)
 - [Dot CSV](https://www.youtube.com/@DotCSV)
