@@ -14,6 +14,14 @@
 - dirbuster
 - gobuster
 - wfuzz
+##### Fuerza bruta en subdominios
+- [dnsenum](https://github.com/fwaeytens/dnsenum)
+- [fierce](https://github.com/mschwager/fierce)
+- [dnsrecon](https://github.com/darkoperator/dnsrecon)
+- [amass](https://github.com/owasp-amass/amass)
+- [assetfinder](https://github.com/tomnomnom/assetfinder)
+- [puredns](https://github.com/d3mondev/puredns)
+
 ##### Enumeración de Subdominios
 - Subfinder
 - Sublistt3r

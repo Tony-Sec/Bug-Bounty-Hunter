@@ -9,11 +9,15 @@
 - [Midulive](https://www.youtube.com/@midulive) -Programación Web
 - [Midudev](https://www.youtube.com/@midudev)
 - [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas)
+- [Kevin Wood | Robotics & AI](https://www.youtube.com/@kevinwoodrobotics)
+- [pixegami](https://www.youtube.com/@pixegami)
+- [AI Anytime](https://www.youtube.com/@AIAnytime)
 ##### Inteligencia Artificial
 - [Nechu](https://www.youtube.com/@NechuBM)
 - [Dot CSV](https://www.youtube.com/@DotCSV)
 - [Dot CSV Lab](https://www.youtube.com/@DotCSVLab)
 - [LLM Master](https://www.youtube.com/@llmmaster_)
+- [Academia IA Lab](https://www.youtube.com/@AcademiaIAlab)
 - [Miguelitohacks](https://www.youtube.com/@miguelitohacks)
 - [Xavier Mitjana](https://www.youtube.com/@XavierMitjana) 
 ##### Ciberseguridad
