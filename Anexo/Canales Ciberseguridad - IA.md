@@ -20,7 +20,8 @@
 - [LLM Master](https://www.youtube.com/@llmmaster_)
 - [Academia IA Lab](https://www.youtube.com/@AcademiaIAlab)
 - [Miguelitohacks](https://www.youtube.com/@miguelitohacks)
-- [Xavier Mitjana](https://www.youtube.com/@XavierMitjana) 
+- [Xavier Mitjana](https://www.youtube.com/@XavierMitjana)
+- [Olivio Sarikas](https://www.youtube.com/@OlivioSarikas)
 ##### Ciberseguridad
 ###### Pentesting
 - [Chema Alonso](https://www.youtube.com/@MalignoAlonso)
