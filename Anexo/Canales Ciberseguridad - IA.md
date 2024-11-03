@@ -22,6 +22,7 @@
 - [Miguelitohacks](https://www.youtube.com/@miguelitohacks)
 - [Xavier Mitjana](https://www.youtube.com/@XavierMitjana)
 - [Olivio Sarikas](https://www.youtube.com/@OlivioSarikas)
+- [Tecnolitas](https://www.youtube.com/@tecnolitas)
 ##### Ciberseguridad
 ###### Pentesting
 - [Chema Alonso](https://www.youtube.com/@MalignoAlonso)
