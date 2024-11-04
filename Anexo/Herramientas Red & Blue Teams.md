@@ -69,8 +69,5 @@
 ###### Videos
 [How I made 200$ in 2 Minutes on Hackerone - Zomato Bug Bounty Program - POC](https://www.youtube.com/watch?v=43YsbV8wL2c)
 
-###### Hardware
 
-[lab401](https://lab401.com/es-es/collections/pentesting)
 
-[Hack5](https://shop.hak5.org/)

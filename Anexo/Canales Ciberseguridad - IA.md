@@ -41,6 +41,7 @@
 - [Hackavis](https://www.youtube.com/@Hackavis)
 #### Investigación & Divulgación
 - [Hack5](https://www.youtube.com/c/hak5)
+- [lab401](https://lab401.com/es-es/collections/pentesting) - Hardware
 #### Noticias
 - [CyberForged](https://www.youtube.com/@cyberforged)
 
