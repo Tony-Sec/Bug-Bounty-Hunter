@@ -58,3 +58,11 @@
 - [hackhispano](https://x.com/hackhispano)
 - [luis_corrons](https://x.com/luis_corrons)
 - [pandacomunica](https://x.com/pandacomunica)
+
+
+# Miscelanio
+
+- https://cysec.careers/
+- https://www.tracelabs.org/initiatives/search-party - OSINT para encontrar personas
+- https://cybermentordojo.com/
+- 
