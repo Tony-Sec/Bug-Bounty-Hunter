@@ -46,6 +46,7 @@
 - [CyberForged](https://www.youtube.com/@cyberforged)
 
 # Twitter
+
 - [peerlyst](https://x.com/peerlyst)
 - [hispasec](https://x.com/hispasec)
 - [securizame](https://x.com/securizame)
@@ -66,4 +67,3 @@
 - https://cysec.careers/
 - https://www.tracelabs.org/initiatives/search-party - OSINT para encontrar personas
 - https://cybermentordojo.com/
-- 
