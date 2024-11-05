@@ -39,6 +39,8 @@
 - [Curso Reversing](https://www.youtube.com/@cursoreversing1952)
 ###### Forense
 - [Hackavis](https://www.youtube.com/@Hackavis)
+###### Blue team
+- [LetsDefend](https://www.youtube.com/@LetsDefend)
 #### Investigación & Divulgación
 - [Hack5](https://www.youtube.com/c/hak5)
 - [lab401](https://lab401.com/es-es/collections/pentesting) - Hardware
