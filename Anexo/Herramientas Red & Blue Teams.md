@@ -30,6 +30,9 @@
 ##### Proxys
 - [Proxychains](https://github.com/haad/proxychains) 
 
+##### Explotation
+- [NetExec -antiguo CrackMapExec](https://www.netexec.wiki/getting-started/selecting-and-using-a-protocol)
+
 
 # Blue Team
 

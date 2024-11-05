@@ -150,3 +150,10 @@ Ha publicado numerosos libros y artículos relacionados con la ciberseguridad y 
 Uno de los principales investigadores de la industria de la seguridad online. Puedes encontrar los tipos de estafas más recientes y consejos prácticos en su perfil de Twitter.
 - https://www.mikko.com/
 
+# Conferencias Hacking
+
+- https://secadmin.es/
+- Hacken
+- Navaja negra
+- Rootedcon
+- Blackhat 
