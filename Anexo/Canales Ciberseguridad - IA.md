@@ -4,6 +4,7 @@
 ##### Linux
 - [Atareao](https://www.youtube.com/@atareao)
 ##### Programación
+- [BettaTech](https://www.youtube.com/@BettaTech)
 - [Mouredev](https://youtube.com/@mouredev) - Tutoriales  y podcast
 - [Mouredev TV](https://youtube.com/@mouredevtv) - directos
 - [Midulive](https://www.youtube.com/@midulive) -Programación Web
