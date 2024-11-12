@@ -24,8 +24,8 @@
 - [puredns](https://github.com/d3mondev/puredns)
 
 ##### Enumeración de Subdominios
-- Subfinder
-- Sublistt3r
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
+- [Sublistt3r](https://github.com/aboul3la/Sublist3r)
 
 ##### Proxys
 - [Proxychains](https://github.com/haad/proxychains) 
