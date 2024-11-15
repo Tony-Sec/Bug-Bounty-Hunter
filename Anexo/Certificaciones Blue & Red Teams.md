@@ -1,4 +1,8 @@
 
+# Ruta de Aprendizaje Hacking Ético
+
+- https://xmind.ai/share/vy9Y2aAK
+
 # Certificaciones
 ## Blue Team
 
@@ -62,3 +66,5 @@ https://maldevacademy.com/
 - https://byte-mind.net/category/ctf/
 - https://marcocampione.com/
 - root-me.org/es/Desafios/ - Write-up de desafios 
+- https://0xdf.gitlab.io/
+- https://medium.com/me/lists
