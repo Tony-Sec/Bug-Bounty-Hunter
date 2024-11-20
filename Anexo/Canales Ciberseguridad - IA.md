@@ -29,14 +29,31 @@
 ###### Pentesting
 - [Chema Alonso](https://www.youtube.com/@MalignoAlonso)
 - [HackerSploit](https://www.youtube.com/@HackerSploit)
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [S4vitar](https://www.youtube.com/@s4vitar)
 - [S4viOnLive (Backup Directos de Twitch)](https://www.youtube.com/channel/UCgzsRmCl4BU-QmSVC4jFOlg)
 - [Seven Seas Security](https://www.youtube.com/@7SeasSecurity)
 - [El Pingüino de Mario](https://www.youtube.com/@ElPinguinoDeMario)
 - [Xerosec](https://www.youtube.com/@xerosec) - Podcasts
+- [MisterWh1t3](https://www.youtube.com/@MisterWh1t3)
+- [Rinku](https://www.youtube.com/@rinkutech_)
+- [Behackerpro](https://www.youtube.com/@Behackerpro)
 - [Hixec](https://www.youtube.com/@Hixec)
+- [Zunder](https://www.youtube.com/@zunderrub)
+- [y4nbow](https://www.youtube.com/@y4nbow)
+- [Thomas Emerson (BountyHacker)](https://www.youtube.com/@BountyHacker)
+- [Cryproot](https://www.youtube.com/@cryproot9845)
+- [sha16](https://www.youtube.com/@sha16)
+- [Archyxsec](https://www.youtube.com/@archyxsec)
+- [El Hacker Ético](https://www.youtube.com/@ElHackerEtico)
 - [Lo de los Hackers](https://www.youtube.com/@LodelosHackers) - Podcasts
+- [Securiters](https://www.youtube.com/@Securiters) - Podcast
+- [R4z0r](https://www.youtube.com/@R4z0r_arg) - Podcast
 - [Artes Oscuras](https://www.youtube.com/@artes_oscuras)
+- [Ergo Hackers](https://www.youtube.com/@ErgoHackers)
+- [TheGoodHacker](https://www.youtube.com/@TheGoodHacker)
+- [Contando Bits](https://www.youtube.com/@ContandoBits) - Podcast
+- [David Pereira](https://www.youtube.com/@DavidPereira) 
 ###### Ingeniería Inversa
 - [Curso Reversing](https://www.youtube.com/@cursoreversing1952)
 ###### Forense
