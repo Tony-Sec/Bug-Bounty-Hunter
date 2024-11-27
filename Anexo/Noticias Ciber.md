@@ -1,27 +1,27 @@
 # Páginas
 
-- [elladodelmal](www.elladodelmal.com)
-- [welivesecurity](https://www.welivesecurity.com/es/)
-- https://segured.com/
-- http://www.securitybydefault.com/
-- https://cybersecuritynews.es/
-- https://krebsonsecurity.com/
-- https://www.troyhunt.com/
-- https://hackread.com/category/hacking-news/
-- https://www.ccn-cert.cni.es/es
+- [Elladodelmal](www.elladodelmal.com)
+- [Welivesecurity](https://www.welivesecurity.com/es/)
+- [Segured](https://segured.com/)
+- [Securitybydefault](http://www.securitybydefault.com/)
+- [Cybersecuritynews](https://cybersecuritynews.es/)
+- [Krebsonsecurity](https://krebsonsecurity.com/)
+- [Troyhunt](https://www.troyhunt.com/)
+- [Hackread](https://hackread.com/category/hacking-news/)
+- [Ccn-cert](https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert.html)
 
 
 ## [NextGov](https://www.nextgov.com/)
 
-NextGov ofrece noticias, análisis e información sobre tecnologías emergentes y su impacto en el gobierno federal de los Estados Unidos. Cualquier persona que trabaje o esté interesada en las TI del sector público, la seguridad cibernética y el cumplimiento en los Estados Unidos debe tener a NextGov en su lista de lectura diaria.
+Noticias, análisis e información sobre tecnologías emergentes y su impacto en el gobierno federal de los Estados Unidos. 
 
 ## [Dark Reading](https://www.darkreading.com/)
 
-Dark Reading, un sitio web de noticias de seguridad cibernética líder en el sector, ofrece análisis detallado, noticias de última hora y perspectivas de expertos sobre cuestiones de seguridad cibernética, junto con documentos técnicos informativos, seminarios web y otros recursos.
+Análisis, noticias de última hora y perspectivas de expertos sobre cuestiones de seguridad cibernética, junto con documentos técnicos informativos, seminarios web y otros recursos.
 
 ## [Daniel Miessler’s Unsupervised Learning](https://danielmiessler.com/)
 
-Unsupervised Learning de Daniel Miessler es un podcast, un blog y un boletín de seguridad, IA «centrado en los significados», para profesionales cibernéticos, estudiantes y entusiastas de todos los niveles y experiencias.
+Podcast, un blog , boletín de ciberseguridad e IA para profesionales, estudiantes y entusiastas.
 
 ## [The Register](https://www.theregister.com/)
 
@@ -45,7 +45,7 @@ Ofrece noticias actualizadas, análisis y comentarios de expertos sobre un ampli
 
 ## [SecurityWeek](https://www.securityweek.com/)
 
-SecurityWeek, una fuente integral de noticias, análisis e información del sector sobre seguridad cibernética, cubre temas como violaciones de datos, malware y tecnologías de seguridad.
+Fuente integral de noticias, análisis e información del sector sobre seguridad cibernética, cubre temas como violaciones de datos, malware y tecnologías de seguridad.
 
 ## [CSO Online](https://www.csoonline.com/) 
 
